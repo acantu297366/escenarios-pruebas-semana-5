@@ -1,0 +1,21 @@
+{
+    "PAGE": "http://localhost:2369",
+    "HELP_PAGE": "http://ghost.org./docs/",
+    "PAGINA_SETUP_ONE": "http://localhost:2369/ghost/#/setup/one",
+    "PAGINA_SETUP_TWO": "http://localhost:2369/ghost/#/setup/two",
+    "BLOG_NAME": "Ghost Blog",
+    "FULL_NAME": "Alonso Cantu",
+    "EMAIL": "a.cantu@uniandes.edu.co",
+    "PASSWORD": "Micontrasenaestaencriptada1990!",
+    "USER": "alberto_alejandro@msn.com",
+    "ADMIN_PAGE": "http://localhost:2369/ghost/#/site",
+    "LOGIN_PAGE": "http://localhost:2369/ghost/#/signin",
+    "EMAIL_INPUT": "ember8",
+    "SIGN_IN_BUTTON": "ember12",
+    "POSTS_PAGE": "http://localhost:2369/ghost/#/editor/post/",
+    "TEXTO_DE_PRUEBA": "Este es un texto para el post",
+    "EMAIL_NO_VALIDO": "a.cantu#uniandes.edu.co",
+    "PASSWORD_NOT_VALID": "password",
+    "BLOG_TITLE_EMPTY": "",
+    "FULL_NAME_EMPTY": ""
+}
