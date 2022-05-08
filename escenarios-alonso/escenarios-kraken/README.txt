@@ -21,6 +21,17 @@ Ejecutar Kraken
 
 Nota importante
 
+    La version Ghost probada es 3.41.1
+
+    Para instalar esa version se tiene que hacer lo siguiente
+
+        Asegurar que la version de Node que se tenga sea
+        la 14.17.0
+
+        Ejecutar
+
+           ghost install 3.41.1 local --force 
+
     Para poder ejecutar las pruebas de Login correctamente,
     se tiene que asegurar que la base de datos de la aplicacion
     Ghost este vacia, para esto se debe de posicionar en la 
