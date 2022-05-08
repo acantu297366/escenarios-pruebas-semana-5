@@ -1,6 +1,9 @@
 Funcionalidades bajo pruebas
 
-    Login de un nuevo usuario
+    - Login de un usuario existente
+    - Login de un nuevo usuario
+    - Gestionar Tags
+    - Gestionar Staff
 
 
 Descripción de escenarios
