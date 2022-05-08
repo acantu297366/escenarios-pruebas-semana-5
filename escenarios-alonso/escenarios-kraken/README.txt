@@ -1,27 +1,6 @@
 Pasos para ejecutar pruebas de Kraken
 
-Validar que se tenga instalado lo siguiente
-
-    Android SDK (ADB and AAPT configured)
-    Appium
-    NodeJS 14.15.0
-    Java
-
-Validar que se tenga todo configurado correctamente
-
-    npx kraken-node doctor
-
-Instalar kraken (solo si no se ha instalado previamente)
-
-    npm install kraken-node --save
-
-Ejecutar Kraken
-
-    npx kraken-node run
-
-Nota importante
-
-    La version Ghost probada es 3.41.1
+    La version de la aplicacion Ghost probada es 3.41.1
 
     Para instalar esa version se tiene que hacer lo siguiente
 
@@ -46,5 +25,30 @@ Nota importante
     necesarios para crear la cuenta por primera vez. La
     base de datos se generara automaticamente al correr
     las pruebas y empezar su ejecucion
+
+    Ejecutar Ghost
+
+        ghost start
+
+Validar que se tenga instalado lo siguiente
+
+    Android SDK (ADB and AAPT configured)
+    Appium
+    NodeJS 14.15.0
+    Java
+
+Validar que se tenga todo configurado correctamente
+
+    npx kraken-node doctor
+
+Instalar kraken (solo si no se ha instalado previamente)
+
+    npm install kraken-node --save
+
+Ejecutar Kraken
+
+    npx kraken-node run
+
+
 
 
