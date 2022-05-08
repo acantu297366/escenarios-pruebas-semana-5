@@ -19,4 +19,21 @@ Ejecutar Kraken
 
     npx kraken-node run
 
+Nota importante
+
+    Para poder ejecutar las pruebas de Login correctamente,
+    se tiene que asegurar que la base de datos de la aplicacion
+    Ghost este vacia, para esto se debe de posicionar en la 
+    carpeta en la que se tenga instalada de forma local la
+    aplicacion y correr el siguiente comando:
+
+        rm -r content/data/ghost-local.db
+
+    El comando anterior borrara todos los registros de la
+    base datos de Ghost de forma local, esto asegura que
+    la aplicacion redireccione correctamente a los links
+    necesarios para crear la cuenta por primera vez. La
+    base de datos se generara automaticamente al correr
+    las pruebas y empezar su ejecucion
+
 
