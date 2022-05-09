@@ -13,6 +13,7 @@
 - Dificultades para su instalación.
 - A veces no reconoce instrucciones o se le dificulta.
 - Tiene una ejecución lenta.
+- Ejecución límitada, no es posible la elección de algún browser en especifico, si se desea hacer debug del tipo step-by-step
 
 ## PROS PLAYWRIGHT
 
@@ -27,6 +28,7 @@
 - Hay que especificar para que tome capturas de pantalla.
 - No es muy gráfico.
 - No especifica de manera exacta el error cuando falla cuando se escriben mal las instrucciones.
+- Algunos selectores solo funcionan en modo step-by-step y no en modo ejecución rápida.
 
 
 ## PROS CYPRESS
@@ -84,3 +86,8 @@
 15. Eliminar una página como administrador y verificar que deje de existir
 
 ### Escenarios Camilo
+16.  Activar y desactivar modo nocturno
+17.  Editar nombre y descripción del blog
+18.  Agregar un nuevo submenú al navbar
+19.  Editar links de las redes sociales
+20.  Interactuar con la integración AMP
