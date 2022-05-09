@@ -1,5 +1,46 @@
 # Reporte Semana 5 - ABP Ghost 3.41.1
 
+
+## PROS KRAKEN
+
+- Tiene un fácil funcionamiento.
+- Está basado en herramientas muy utilizadas como Cucumber.
+- Permite visualizar fácilmente la interfaz gráfica durante la ejecución de las pruebas.
+
+
+## CONTRAS KRAKEN
+
+- Dificultades para su instalación.
+- A veces no reconoce instrucciones o se le dificulta.
+- Tiene una ejecución lenta.
+
+## PROS PLAYWRIGHT
+
+- Tiene un fácil funcionamiento.
+- Tiene una ejecución rápida e intutitva.
+- Reconoce las instrucciones de manera fácil.
+- Reconoce la profundidad de los elementos en HTML de manera rápida y fácil.
+
+
+## CONTRAS PLAYWRIGHT
+
+- Hay que especificar para que tome capturas de pantalla.
+- No es muy gráfico.
+- No especifica de manera exacta el error cuando falla cuando se escriben mal las instrucciones.
+
+
+## PROS CYPRESS
+
+- Es la herramienta más fácil de usar.
+- Tiene una ejecución rápida e intutitva.
+
+
+
+## CONTRAS CYPRESS
+
+- No reconoce muy bien la profundidad de los elementos HTML por lo que toca especificar detalladamente, por lo que complica el tipado.
+
+
 ## Integrantes
 
 - Diego Fernando Eslava Lozano
