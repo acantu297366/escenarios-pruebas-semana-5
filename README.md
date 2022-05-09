@@ -36,7 +36,7 @@
 
 
 
-## CONTRAS PLAYWRIGHT
+## CONTRAS CYPRESS
 
 - No reconoce muy bien la profundidad de los elementos HTML por lo que toca especificar detalladamente, por lo que complica el tipado.
 
